@@ -1,0 +1,213 @@
+<mjml>
+  <mj-head>
+    <mj-title>Test email letter</mj-title>
+    <mj-preview>Test email letter</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#E5EAFF">
+      <mj-column>
+        <mj-image 
+          width="100px" 
+          src="https://i.imgur.com/jx4sAQC.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#E5EAFF" >
+      <mj-column>
+        <mj-text>
+          <h1
+            font-size="24px"
+            font-weight="700"
+            line-height="24px"
+            color="#28293D"
+            align="center"
+          >
+            Neque porro quisquam est qui dolorem ipsum
+          </h1>
+        </mj-text>
+        <mj-text
+          font-size="16px"
+          font-weight="400"
+          line-height="20px"
+          color="#28293D"
+          align="center"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#E5EAFF">
+      <mj-column>
+        <mj-image
+          src="https://i.imgur.com/1q3nR8j.png"
+          height="248px"
+          width="184px"
+        >
+        </mj-image>
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://i.imgur.com/HEHrGhw.png"
+          height="248px"
+          width="184px"
+        >
+        </mj-image>
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://i.imgur.com/TG2qb3e.png"
+          height="248px"
+          width="184px"
+        >
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://i.imgur.com/EKHUG2m.png" padding="0">
+      </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#252638"
+    >
+      <mj-column>
+        <mj-text
+          color="#fff"
+          align="center"
+
+          font-size="24px"
+          font-weight="700"
+        >
+          Neque porro quisquam est qui dolorem ipsumquia dolor sit amet
+        </mj-text>
+
+        <mj-text
+          color="rgba(255, 255, 255, 0.80)"
+          align="center"
+
+          font-size="16px"
+          font-weight="400"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#252638"
+    >
+      <mj-column>
+        <mj-image
+          src="https://i.imgur.com/YiPg7dh.png"
+          href="#"
+        >
+        </mj-image>
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://i.imgur.com/95Ubu14.png"
+          href="#"
+        >
+        </mj-image>
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://i.imgur.com/UCxr4ek.png"
+          href="#"
+        >
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#252638">
+      <mj-column>
+        <mj-button 
+          background-color="#DA2E71" 
+          href="#"
+          width="176px"
+          padding="8px 12px"
+        >
+          Играть
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#252638">
+      <mj-column>
+        <mj-image
+          src="https://i.imgur.com/DMd4tM5.png"
+          href="#"
+        >
+        </mj-image>
+
+        <mj-image
+          src="https://i.imgur.com/8DQbHRY.png"
+          href="#"
+        >
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section 
+      background-color="#252638"
+      border-top="1px dashed rgba(255, 255, 255, 0.60)"
+      border-bottom="1px dashed rgba(255, 255, 255, 0.60)"
+    >
+      <mj-column>
+        <mj-text 
+          font-size="14px"
+          font-weight="700"
+          color="#fff"
+          line-height="24px"
+        >
+          Остались вопросы?
+        </mj-text>
+
+        <mj-text
+          font-size="12px"
+          font-weight="400"
+          color="rgba(255, 255, 255, 0.60)"
+          line-height="16px"
+        >
+          Наши специалисты помогут разобраться
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-image 
+          src="https://i.imgur.com/uR0erfi.png" 
+          href="#"
+          alt="call me"
+          height="52px"
+          width="194px"
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#252638">
+      <mj-column>
+        <mj-text
+          color="#818296"
+          font-size="10px"
+          font-weight="400"
+          line-height="16px"
+          align="center"
+        >
+          Вы получили это письмо, потому что зарегистрированы в Supergra.com и подтвердили свое согласие c Правилами и Условиями. Для того чтобы отписаться от рассылки, нажмите на <a href="#" style="color: #DA2E71; text-decoration: none;">ссылку</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
